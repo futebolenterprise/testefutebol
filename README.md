@@ -1,2 +1,1 @@
-novo teste
-novo teste
+teste apenas com merge.
