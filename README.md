@@ -1,5 +1,5 @@
 
 
-dia 19-01-2016
+dia 20-01-2016
 
-ultimo teste Rafael 14:49.
+ultimo teste Rafael 13:59.
